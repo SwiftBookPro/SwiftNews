@@ -5,7 +5,8 @@
 
 2:success
 
-3:
+3:git repo
+
 project 'SwiftNews.xcodeproj'
 
 # Uncomment this line to define a global platform for your project
